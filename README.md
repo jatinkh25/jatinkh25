@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jatin Khatri</h1>
-<h3 align="center">Frontend enthusiast crafting stunning UIs and crushing browser bugs.</h3>
+<!-- <h3 align="center">Frontend enthusiast crafting stunning UIs and crushing browser bugs.</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatinkh25&label=Profile%20views&color=0e75b6&style=flat" alt="jatinkh25" /> </p>
 
