@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jatinkh25" alt="jatinkh25" /></a> </p>
 
-- 🔭 I’m currently working on [Placement Portal Project @NITH](https://github.com/College-Placement-Portal-NITH/placement-portal-frontend)
-
 - 🌱 I’m currently learning **some DevOps technologies like Docker, Jenkins and Nginx.**
 
 - 💬 Ask me about **React, Javascript, HTML and CSS.**
